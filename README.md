@@ -1,6 +1,5 @@
 # Graphical-Representation-of-search-algorithms
-We have created a graphical representation of search algorithms like BFS, DFS &amp; A* algorithm using NetworkX and Pygame.
-Sure! Here's the full content of the `README.md` file I created for you:
+We have created a graphical representation of search algorithms like BFS, DFS & A* algorithm using NetworkX and Pygame.
 
 ---
 
@@ -15,7 +14,14 @@ This repository contains two interactive visualization tools using `pygame`:
 
 ## 1️⃣ Maze Pathfinding Visualizer
 
-A visual simulation of pathfinding algorithms in a randomly generated maze. Users can set start and end points and watch how BFS, DFS, and A* search solve the maze.
+📖 **Overview**
+This project is an interactive maze-solving visualizer built using Pygame. It supports three pathfinding algorithms:
+
+1. Breadth-First Search (BFS)
+2. Depth-First Search (DFS)
+3. A* (A-Star)
+
+Users can generate a new maze, set a start and end point, and watch the selected algorithm find a path in real-time.
 
 ### 📁 File: `mazepathfinding.py`
 
@@ -33,14 +39,21 @@ pip install pygame
 python mazepathfinding.py
 ```
 
-### 🕹️ Controls
+### 🧰 Dependencies
+1. pygame
+2. random
+3. heapq
+4. collections.deque
 
-- Press `1` — BFS  
-- Press `2` — DFS  
-- Press `3` — A*  
-- Press `R` — Regenerate maze  
-- **Mouse Left Click (twice)** — Set Start and Goal points
-
+⚙️ **How It Works** 🕹️
+- A grid-based maze is randomly generated.
+-  Click to set the Start and Goal points.
+-   Use keyboard controls to choose the algorithm:
+   1 for BFS
+   2 for DFS
+   3 for A*
+   R to regenerate the maze
+   
 ### 🎨 Colors
 
 | Color  | Meaning        |
@@ -52,6 +65,12 @@ python mazepathfinding.py
 | ⬛ Black | Wall            |
 | 🩶 Gray  | Visited Nodes   |
 
+### 📌 Features
+1. Real-time animation of the algorithm's progress.
+2. Displays visited cells and final path.
+3. Highlights algorithm used at the top of the window.
+
+   
 ## 📸 Screenshots
 
                                               Interface
@@ -79,9 +98,16 @@ python mazepathfinding.py
 
 ## 2️⃣ Graph Blink Visualization
 
-`graphblink.py` (Assumed functionality: visualizing nodes/edges blinking for some animation purpose).
+📖 **Overview**
+GraphBlink is a command-line + visual tool that lets users input custom graphs and visualize:
+1. Breadth-First Search (BFS)
+2.  Depth-First Search(DFS)
+3.  A* Search
+
+Animations are displayed using matplotlib to show step-by-step traversal or shortest path.
 
 ### 📁 File: `graphblink.py`
+
 
 ### 🔧 Requirements
 
@@ -96,10 +122,24 @@ pip install pygame
 ```bash
 python graphblink.py
 ```
+🧰 **Dependencies**
+1. networkx
+2. matplotlib
+3. heapq
+4. collections.deque
+5. time
 
-### 📌 Description
+⚙️ **How It Works**
+- User inputs the number of edges and edge connections.
+- Sets a start node (and a goal for A*).
+- Enters heuristic values for nodes.
+- Visualizes traversal steps for BFS, DFS, and A* separately.
 
-This file visually represents graph nodes and connections in an animated fashion. It may be used to show graph transitions, highlights, or algorithm steps.
+### 📌 Features
+1. Animated step-by-step traversal
+2. Color-coded nodes per algorithm
+3. Accepts user-defined graph structure and heuristics
+
 
 ## 📎 Notes
 
