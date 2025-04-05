@@ -101,7 +101,21 @@ This file visually represents graph nodes and connections in an animated fashion
 
 ## 📸 Screenshots
 
+                   Interface
+ ![Image](https://github.com/user-attachments/assets/22f0fef1-bd56-4f9a-99ce-d8d574b7f470)
 
+                    A* Algorithm Output
+                    
+![Image](https://github.com/user-attachments/assets/092b0e76-2b0b-44b0-9b1e-ba3a25afb9d1)
+
+               Depth-First-Search(DFS) Output
+
+
+
+                Breadth-First-Search(BFS) Output
+
+                
+               
 ## 🧑‍💻 Author
 
 Maintained by:-
