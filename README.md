@@ -54,18 +54,26 @@ python mazepathfinding.py
 
 ## 📸 Screenshots
 
-                                          Initial setup
-![Image](https://github.com/user-attachments/assets/54f8d845-1b46-4ddd-9bc2-165752f50f6c)
+                                              Interface
+                
+![Image](https://github.com/user-attachments/assets/b59b77b9-425c-4eb6-9dea-e89715d844ec)
+ 
+                                             A* Algorithm Output
+                   
+![Image](https://github.com/user-attachments/assets/22f0fef1-bd56-4f9a-99ce-d8d574b7f470)
+
+                                            Depth-First-Search(DFS) Output
+
+![Image](https://github.com/user-attachments/assets/092b0e76-2b0b-44b0-9b1e-ba3a25afb9d1)
+
+                                    Breadth-First-Search(BFS) Output
+                
+![Image](https://github.com/user-attachments/assets/1fcdc56b-df7f-4533-bebe-8f2c80ee2736)
 
 
-                                          A* algorithm output
-![Image](https://github.com/user-attachments/assets/0c813441-2e12-41b2-8d08-61fffe46a09c)
 
-                                          Depth-First-Search(DFS) Output
-![Image](https://github.com/user-attachments/assets/c814790c-7245-4bee-b073-326a86d4a6f9)
 
-                                        Breadth-First-Search(BFS) Output
-![Image](https://github.com/user-attachments/assets/82001b62-5298-4761-a127-c06a57aa9bbf)
+
 
 ---
 
@@ -101,20 +109,19 @@ This file visually represents graph nodes and connections in an animated fashion
 
 ## 📸 Screenshots
 
-                   Interface
- ![Image](https://github.com/user-attachments/assets/22f0fef1-bd56-4f9a-99ce-d8d574b7f470)
-
-                    A* Algorithm Output
-                    
-![Image](https://github.com/user-attachments/assets/092b0e76-2b0b-44b0-9b1e-ba3a25afb9d1)
-
-               Depth-First-Search(DFS) Output
+                                          Initial setup
+![Image](https://github.com/user-attachments/assets/54f8d845-1b46-4ddd-9bc2-165752f50f6c)
 
 
+                                          A* algorithm output
+![Image](https://github.com/user-attachments/assets/0c813441-2e12-41b2-8d08-61fffe46a09c)
 
-                Breadth-First-Search(BFS) Output
+                                          Depth-First-Search(DFS) Output
+![Image](https://github.com/user-attachments/assets/c814790c-7245-4bee-b073-326a86d4a6f9)
 
-                
+                                        Breadth-First-Search(BFS) Output
+![Image](https://github.com/user-attachments/assets/82001b62-5298-4761-a127-c06a57aa9bbf)
+
                
 ## 🧑‍💻 Author
 
