@@ -52,6 +52,8 @@ python mazepathfinding.py
 | ⬛ Black | Wall            |
 | 🩶 Gray  | Visited Nodes   |
 
+## 📸 Screenshots
+
 ---
 
 ## 2️⃣ Graph Blink Visualization
