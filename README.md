@@ -54,6 +54,19 @@ python mazepathfinding.py
 
 ## 📸 Screenshots
 
+                                          Initial setup
+![Image](https://github.com/user-attachments/assets/54f8d845-1b46-4ddd-9bc2-165752f50f6c)
+
+
+                                          A* algorithm output
+![Image](https://github.com/user-attachments/assets/0c813441-2e12-41b2-8d08-61fffe46a09c)
+
+                                          Depth-First-Search(DFS) Output
+![Image](https://github.com/user-attachments/assets/c814790c-7245-4bee-b073-326a86d4a6f9)
+
+                                        Breadth-First-Search(BFS) Output
+![Image](https://github.com/user-attachments/assets/82001b62-5298-4761-a127-c06a57aa9bbf)
+
 ---
 
 ## 2️⃣ Graph Blink Visualization
